@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+# Игнорируем кеши Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
